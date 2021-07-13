@@ -1,14 +1,10 @@
+
 # Welcome to Templar Payments
 
 **POST YOUR BUGS HERE**
 This is Templar Payments public bug tracking area, we get notifications when you post a bug in here, so it comes directly to the developers :).
 
-```mermaid
-graph LR
-A[You Post Bug] -- You report the bug --> B((We get the bug))
-B -- We fix the bug --> D{You get bug free application}
-
-```
+<img width="690" alt="Screenshot 2021-07-13 at 23 22 51" src="https://user-images.githubusercontent.com/17186852/125532812-7c40228b-ab11-4da5-81d1-eb5e0010ec71.png">
 
 # How to post a bug
 Just click the ISSUES tab at the top.
