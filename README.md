@@ -11,6 +11,7 @@ B -- We fix the bug --> D{You get bug free application}
 ```
 
 # How to post a bug
+Just click the ISSUES tab at the top.
 Please use the following format when posting a bug to help us fix it faster.
 
 Your email Address:
