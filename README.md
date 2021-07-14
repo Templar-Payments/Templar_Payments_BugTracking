@@ -9,10 +9,10 @@ This is Templar Payments public bug tracking area, we get notifications when you
 Just click the ISSUES tab at the top.
 Please use the following format when posting a bug to help us fix it faster.
 
-Your email Address:
-Your Company:
-What you were doing before the bug occurred: 
-Where in the application where you (including step number if applicable)
-What exact action caused this bug:
-Can you reproduce it? If so how:
-Attach screenshots of the application in error, and also open up developer console (right click, inspect element, then click console)
+Your email Address: <br />
+Your Company: <br />
+What you were doing before the bug occurred:  <br />
+Where in the application where you (including step number if applicable) <br />
+What exact action caused this bug: <br />
+Can you reproduce it? If so how: <br />
+Attach screenshots of the application in error, and also open up developer console (right click, inspect element, then click console) <br />
